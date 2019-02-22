@@ -3,4 +3,4 @@
 
 
 def get():
-  return u'Here is our message for an example!'
+    return u'Here is our message for an example!'
