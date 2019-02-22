@@ -1,2 +1,2 @@
 # paket
-python packaging exapmle
+python packaging example
