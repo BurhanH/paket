@@ -9,4 +9,4 @@ python packaging example
 How to install
 --------------
 
-``pip install git+ssh://git@github.com/BurhanH/paket.git``
+``pip install -e git+ssh://git@github.com/BurhanH/paket.git\#egg=paket``
